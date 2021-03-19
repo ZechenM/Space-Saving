@@ -7,4 +7,4 @@ Space Saving Algorithm C++ Implementation Using Min-heap
 
 ## zipfData.txt
 * 1e5 data in zipf distribution
-* Running time $\approx$ 800 nanoseconds
+* Running time is approximately 800 nanoseconds
