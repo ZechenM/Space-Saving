@@ -8,3 +8,6 @@ Space Saving Algorithm C++ Implementation Using Min-heap
 ## zipfData.txt
 * 1e5 data in zipf distribution
 * Running time is approximately 800 nanoseconds
+
+## Reference
+* A. Metwally, D. Agrawal, and A. El Abbadi. Efficient Computation of Frequent and Top-k Elements in Data Streams. In Proceedings of the 10th ICDT International Conference on Database Theory, pages 398–412, 2005.
