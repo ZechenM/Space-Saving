@@ -147,7 +147,7 @@ void SpaceSaving::print()
 {
     for (int i = 0; i < k; i++)
     {
-        cout << "ID: " << minHeap[i]->id << "; ";
+        cout << "Item: " << minHeap[i]->id << "; ";
         cout << "Weight: " << minHeap[i]->weight << "; ";
         cout << "Error: " << minHeap[i]->error << "\n";
     }
