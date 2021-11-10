@@ -1,6 +1,9 @@
 # Space-Saving
 Space Saving Algorithm C++ Implementation Using Min-heap
 
+## Incentive
+* Inspired by an Amazon Tech Talk: http://romania.amazon.com/techon/presentations/DataStreamsAlgorithms_FlorinManolache.pdf, this algorithm with using min-heap supports weighted items and improves the worst-case running time from linear to logarithmic. 
+
 ## SampleData.txt
 * Input sequence: a, b, a, c, d, e, a, d, f, a, d
 * Expected SpaceSaving Summary: a(4), d(3), e(2), f(2)
